@@ -1,0 +1,148 @@
+@media(max-width:575px) {
+    .social {
+        display: none;
+    }
+    /*    banner part*/
+    .banner-text h1 {
+        margin: 0 0px;
+        line-height: 1.2;
+
+    }
+    .number-text p {
+        padding-right: 0;
+        padding-left: 0;
+        padding-top: 20px;
+    }
+    .number {
+        margin-right: 0;
+    }
+    .number-box {
+        width: 79%;
+        height: 49px;
+    }
+    .number-img {
+        display: none;
+    }
+    .boxbutton {
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 16px;
+        padding-bottom: 10px;
+    }
+
+    .boxbutton span {
+        display: none;
+    }
+    .boxbutton img {
+        margin-top: -5px;
+        margin-left: 0px;
+    }
+
+    .number-text p {
+
+        margin: 0 0px;
+    }
+    /*    sevrvice part*/
+    .service-item {
+        margin-bottom: 20px;
+    }
+    /*    review part*/
+    .twitter-text {
+        margin-right: 0;
+        margin-bottom: 25px;
+    }
+    .prepaid-phone-img {
+        display: none;
+    }
+    .prepaid-phone-button span {
+        display: none;
+    }
+    .prepaid-phone-button {
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 16px;
+        padding-bottom: 10px;
+    }
+    .prepaid-phone-box {
+        width: 81%;
+        height: 53px;
+    }
+
+}
+
+@media(min-width:575px) and (max-width:767px) {
+    .banner-text h1 {
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    .number-text p {
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+    .number-img {
+        display: none;
+    }
+
+    .number {
+        margin-right: 0px;
+    }
+    .number-box {
+        width: 67%;
+        margin-bottom: 15px;
+    }
+    .cust-review {
+        margin-bottom: 47px;
+    }
+    .twitter-text {
+        margin-right: 0px;
+    }
+    .twitter-text {
+        margin-bottom: 52px;
+    }
+    .prepaid-phone-img {
+        display: none;
+    }
+    .prepaid-phone-box {
+        width: 69%;
+    }
+}
+
+@media(min-width:768px) and (max-width:991px) {
+    .banner-text h1 {
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    .number-text p {
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+    .number-img {
+        display: none;
+    }
+    .number {
+        margin-right: 0px;
+    }
+    .number-box {
+        width: 76%;
+        margin-bottom: 15px;
+    }
+    .twitter-text {
+        margin-right: 0px;
+    }
+    .cust-review {
+        margin-bottom: 105px;
+    }
+    .prepaid-phone-img {
+        display: none;
+    }
+
+    .prepaid-phone-box {
+        width: 77%;
+    }
+}
+
+@media(min-width:992px) and (max-width:1199px) {
+    .cust-review {
+        margin-bottom: 130px;
+    }
+}
